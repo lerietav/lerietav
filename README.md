@@ -53,7 +53,7 @@ Java-based task management system applying object-oriented programming and data 
 
 **Technologies:** Java · OOP · Data Structures
 
-🔗 [Live Demo](https://lerietav.github.io/ChittChatt/)
+🔗 [Live Demo](https://github.com/lerietav/TaskManagementSystem.git)
 
 
 ## 📚 Currently learning
