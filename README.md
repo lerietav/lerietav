@@ -47,15 +47,14 @@ Interactive communication web app prototype focused on creating a simple and acc
 
 🔗 [Live Demo](https://lerietav.github.io/ChittChatt/)
 
-### 🗄️ PinkPepper
-Relational database project developed using MySQL and SQL, including queries, stored procedures, triggers, and Java JDBC integration.
-
-**Technologies:** SQL · MySQL · Java · JDBC
 
 ### ☕ Task Management System
 Java-based task management system applying object-oriented programming and data structures such as stacks, queues, and linked lists.
 
 **Technologies:** Java · OOP · Data Structures
+
+🔗 [Live Demo](https://lerietav.github.io/ChittChatt/)
+
 
 ## 📚 Currently learning
 
