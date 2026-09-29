@@ -1,4 +1,4 @@
-# Hi, I'm Lerie! 👋
+# Hi, I'm Valeria! 
 
 I'm a Software Engineering student at Universidad Tecmilenio, interested in building practical digital solutions that combine technology, functionality, and creativity.
 
