@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Lerie! 👋
 
-<!--
-**lerietav/lerietav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Universidad Tecmilenio, interested in building practical digital solutions that combine technology, functionality, and creativity.
 
-Here are some ideas to get you started:
+## 💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering student (2025–2029)
+- 🌐 Interested in web development and digital products
+- 🧩 Enjoy solving technical problems and learning how systems work
+- 🎨 Interested in combining technology with creative and visual design
+- 🛠️ Hands-on experience with web development, WordPress, e-commerce support, programming, and databases
+
+## 🛠️ Technologies & Skills
+
+**Programming**
+- Java
+- Python
+- SQL
+- JavaScript
+
+**Web**
+- HTML
+- CSS
+- WordPress
+- Elementor
+- Responsive Web Design
+
+**Databases & Tools**
+- MySQL
+- JDBC
+- Git
+- AWS
+- Linux / Red Hat
+
+**Other**
+- Technical Support
+- Troubleshooting
+- E-commerce
+- Digital Design
+
+## 🚀 Featured Projects
+
+### 🐶 ChittChatt
+Interactive communication web app prototype focused on creating a simple and accessible visual interface.
+
+**Technologies:** HTML · CSS
+
+🔗 [Live Demo](https://lerietav.github.io/ChittChatt/)
+
+### 🗄️ PinkPepper
+Relational database project developed using MySQL and SQL, including queries, stored procedures, triggers, and Java JDBC integration.
+
+**Technologies:** SQL · MySQL · Java · JDBC
+
+### ☕ Task Management System
+Java-based task management system applying object-oriented programming and data structures such as stacks, queues, and linked lists.
+
+**Technologies:** Java · OOP · Data Structures
+
+## 📚 Currently learning
+
+I'm continuously developing my skills in software development, databases, web technologies, and building practical digital solutions.
+
+---
+
+📫 **Open to remote and hybrid opportunities in technology.**
